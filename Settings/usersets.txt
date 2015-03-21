@@ -1,0 +1,14 @@
+[ACCOUNT]
+character-username = Orbit
+character-password = x1
+character-newhitsplat = 0
+character-newhpbars = 1
+character-hpaboveheads = 1
+[PRAYERS]
+prayer = 0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	
+
+[CURSES]
+curse = 1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	
+
+
+[EOF]
